@@ -1,4 +1,2 @@
-dataset/ArgumentAnnotatedEssays-2.0/
-dataset/IBM_Debater_(R)_ArgKP-2021/
-dataset/IBM_Debater_(R)_arg_quality_rank_30k/
-dataset/conversations-gone-awry-cmv-corpus-large/
+./dataset/*/
+!./dataset/*.zip
