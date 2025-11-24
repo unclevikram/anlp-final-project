@@ -1,4 +1,39 @@
-./dataset/*/
-!./dataset/*.zip
-*.md
-dataset/conversations-gone-awry-cmv-corpus-large/utterances.jsonl
+# Dataset directories (large files)
+dataset/
+*.zip
+
+# Large data files
+*.jsonl
+*.csv
+
+# PDF files (can be large)
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results and outputs (optional - remove if you want to track these)
+*_results.json
+*_analysis.json
+structural_analysis_results.json
+essay_analysis_results.json
