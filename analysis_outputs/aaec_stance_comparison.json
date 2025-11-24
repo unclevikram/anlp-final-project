@@ -1,0 +1,52 @@
+{
+  "per_topic_diffs": {
+    "International tourism is now more common than ever before. Some feel that this is a positive trend, while others do not. What are your opinions on this?": {
+      "attack_ratio": 0.0,
+      "evidence_density": 1.0,
+      "avg_breadth": 1.3333333333333333,
+      "max_depth": -1
+    },
+    "Nowadays, distance-learning programs are such common thing for us, but some people argue that they're not as good as those by attending in a college or university in person. To what extent do you agree or disagree?": {
+      "attack_ratio": -0.09090909090909091,
+      "evidence_density": -0.75,
+      "avg_breadth": -0.25,
+      "max_depth": -1
+    },
+    "Some people believe that a college or university education should be available to all students. Others believe that higher education should be available only to good students. Discuss these views. Which view do you agree with? Explain why.": {
+      "attack_ratio": 0.02777777777777779,
+      "evidence_density": 1.0,
+      "avg_breadth": 0,
+      "max_depth": 1
+    }
+  },
+  "overall": {
+    "attack_ratio": {
+      "pro_mean": 0.08333333333333333,
+      "con_mean": 0.10437710437710437,
+      "difference": -0.021043771043771045,
+      "cohen_d": -0.19969350598171776,
+      "n_topics": 3
+    },
+    "evidence_density": {
+      "pro_mean": 3.0,
+      "con_mean": 2.5833333333333335,
+      "difference": 0.4166666666666665,
+      "cohen_d": 0.6401843996644797,
+      "n_topics": 3
+    },
+    "avg_breadth": {
+      "pro_mean": 2.3333333333333335,
+      "con_mean": 1.9722222222222223,
+      "difference": 0.36111111111111116,
+      "cohen_d": 0.9662823901213163,
+      "n_topics": 3
+    },
+    "max_depth": {
+      "pro_mean": 2.3333333333333335,
+      "con_mean": 2.6666666666666665,
+      "difference": -0.33333333333333304,
+      "cohen_d": -0.7071067811865469,
+      "n_topics": 3
+    }
+  }
+}

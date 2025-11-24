@@ -1,0 +1,164 @@
+{
+  "total_pairs": 27519,
+  "stance_distribution": {
+    "-1": 12585,
+    "1": 14934
+  },
+  "topics": {
+    "Assisted suicide should be a criminal offence": {
+      "pairs": 1027,
+      "matches": 232,
+      "match_rate": 0.22590068159688412
+    },
+    "Homeschooling should be banned": {
+      "pairs": 1067,
+      "matches": 220,
+      "match_rate": 0.20618556701030927
+    },
+    "The vow of celibacy should be abandoned": {
+      "pairs": 1070,
+      "matches": 183,
+      "match_rate": 0.17102803738317757
+    },
+    "We should abandon marriage": {
+      "pairs": 914,
+      "matches": 129,
+      "match_rate": 0.14113785557986872
+    },
+    "We should abandon the use of school uniform": {
+      "pairs": 1046,
+      "matches": 219,
+      "match_rate": 0.20936902485659656
+    },
+    "We should abolish capital punishment": {
+      "pairs": 1060,
+      "matches": 190,
+      "match_rate": 0.1792452830188679
+    },
+    "We should abolish intellectual property rights": {
+      "pairs": 794,
+      "matches": 145,
+      "match_rate": 0.18261964735516373
+    },
+    "We should abolish the right to keep and bear arms": {
+      "pairs": 782,
+      "matches": 226,
+      "match_rate": 0.289002557544757
+    },
+    "We should adopt an austerity regime": {
+      "pairs": 946,
+      "matches": 172,
+      "match_rate": 0.18181818181818182
+    },
+    "We should adopt atheism": {
+      "pairs": 608,
+      "matches": 100,
+      "match_rate": 0.16447368421052633
+    },
+    "We should adopt libertarianism": {
+      "pairs": 823,
+      "matches": 148,
+      "match_rate": 0.1798298906439854
+    },
+    "We should ban human cloning": {
+      "pairs": 943,
+      "matches": 207,
+      "match_rate": 0.21951219512195122
+    },
+    "We should ban private military companies": {
+      "pairs": 865,
+      "matches": 134,
+      "match_rate": 0.15491329479768787
+    },
+    "We should ban the use of child actors": {
+      "pairs": 1084,
+      "matches": 224,
+      "match_rate": 0.2066420664206642
+    },
+    "We should close Guantanamo Bay detention camp": {
+      "pairs": 888,
+      "matches": 174,
+      "match_rate": 0.19594594594594594
+    },
+    "We should end affirmative action": {
+      "pairs": 684,
+      "matches": 121,
+      "match_rate": 0.17690058479532164
+    },
+    "We should end mandatory retirement": {
+      "pairs": 668,
+      "matches": 158,
+      "match_rate": 0.23652694610778444
+    },
+    "We should fight for the abolition of nuclear weapons": {
+      "pairs": 258,
+      "matches": 98,
+      "match_rate": 0.3798449612403101
+    },
+    "We should fight urbanization": {
+      "pairs": 737,
+      "matches": 191,
+      "match_rate": 0.2591587516960651
+    },
+    "We should introduce compulsory voting": {
+      "pairs": 773,
+      "matches": 212,
+      "match_rate": 0.2742561448900388
+    },
+    "We should legalize cannabis": {
+      "pairs": 1279,
+      "matches": 222,
+      "match_rate": 0.17357310398749023
+    },
+    "We should legalize prostitution": {
+      "pairs": 890,
+      "matches": 197,
+      "match_rate": 0.22134831460674156
+    },
+    "We should legalize sex selection": {
+      "pairs": 1187,
+      "matches": 211,
+      "match_rate": 0.17775905644481887
+    },
+    "We should prohibit flag burning": {
+      "pairs": 338,
+      "matches": 211,
+      "match_rate": 0.6242603550295858
+    },
+    "We should prohibit women in combat": {
+      "pairs": 1044,
+      "matches": 191,
+      "match_rate": 0.18295019157088122
+    },
+    "We should subsidize journalism": {
+      "pairs": 646,
+      "matches": 152,
+      "match_rate": 0.23529411764705882
+    },
+    "We should subsidize space exploration": {
+      "pairs": 957,
+      "matches": 232,
+      "match_rate": 0.24242424242424243
+    },
+    "We should subsidize vocational education": {
+      "pairs": 715,
+      "matches": 99,
+      "match_rate": 0.13846153846153847
+    },
+    "Routine child vaccinations should be mandatory": {
+      "pairs": 1032,
+      "matches": 181,
+      "match_rate": 0.1753875968992248
+    },
+    "Social media platforms should be regulated by the government": {
+      "pairs": 1039,
+      "matches": 174,
+      "match_rate": 0.16746871992300288
+    },
+    "The USA is a good country to live in": {
+      "pairs": 1355,
+      "matches": 197,
+      "match_rate": 0.14538745387453875
+    }
+  }
+}
