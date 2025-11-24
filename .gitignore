@@ -1,3 +1,4 @@
 ./dataset/*/
 !./dataset/*.zip
 *.md
+dataset/conversations-gone-awry-cmv-corpus-large/utterances.jsonl
